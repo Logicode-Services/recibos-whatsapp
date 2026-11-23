@@ -1,0 +1,17 @@
+{
+  "is_receipt": false,
+  "is_credit_note": false,
+  "vendor_rut": null,
+  "document_number": null,
+  "items": [],
+  "currency": null,
+  "tax_amount": null,
+  "payment_method": null,
+  "confidence": "alta",
+  "review_note": "Es una foto de comida, no un comprobante.",
+  "receipt_date": null,
+  "vendor": null,
+  "description": null,
+  "total": null,
+  "category": null
+}

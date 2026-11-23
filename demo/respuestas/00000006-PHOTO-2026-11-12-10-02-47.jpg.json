@@ -1,0 +1,24 @@
+{
+  "is_receipt": true,
+  "is_credit_note": false,
+  "vendor_rut": "219999990033",
+  "document_number": "B 77120",
+  "items": [
+    {
+      "description": "Consumo 412 kWh",
+      "quantity": null,
+      "total": 2368.85,
+      "category": "servicios"
+    }
+  ],
+  "currency": "UYU",
+  "tax_amount": 521.15,
+  "payment_method": "transferencia",
+  "confidence": "alta",
+  "review_note": null,
+  "receipt_date": "2026-11-05",
+  "vendor": "Energía del Este",
+  "description": "Factura de luz octubre 2026",
+  "total": 2890,
+  "category": "servicios"
+}

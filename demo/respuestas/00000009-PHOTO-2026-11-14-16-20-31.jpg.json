@@ -1,0 +1,17 @@
+{
+  "is_receipt": true,
+  "is_credit_note": false,
+  "vendor_rut": null,
+  "document_number": null,
+  "items": [],
+  "currency": "UYU",
+  "tax_amount": null,
+  "payment_method": null,
+  "confidence": "baja",
+  "review_note": "Foto borrosa: confirmá el total y la fecha con el ticket.",
+  "receipt_date": null,
+  "vendor": "Ferretería El Tornillo",
+  "description": "Reparación de canilla y flexibles",
+  "total": 1250,
+  "category": "mantenimiento"
+}

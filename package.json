@@ -1,0 +1,30 @@
+{
+  "name": "recibos-whatsapp",
+  "version": "0.1.0",
+  "description": "Convierte las fotos de recibos de un chat de WhatsApp exportado en una planilla de gastos lista para revisar.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "bin": {
+    "recibos": "src/cli.ts"
+  },
+  "scripts": {
+    "recibos": "node src/cli.ts",
+    "demo": "node src/cli.ts demo/chat-demo.zip --demo --salida salida-demo",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.137.0",
+    "exceljs": "^4.4.0",
+    "fflate": "^0.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
+  }
+}

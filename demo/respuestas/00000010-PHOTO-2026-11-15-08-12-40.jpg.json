@@ -1,0 +1,30 @@
+{
+  "is_receipt": true,
+  "is_credit_note": false,
+  "vendor_rut": "219999990011",
+  "document_number": "A 004512",
+  "items": [
+    {
+      "description": "Carne picada 4 kg",
+      "quantity": 4,
+      "total": 2400,
+      "category": "proveedores"
+    },
+    {
+      "description": "Chorizo 1,5 kg",
+      "quantity": 1.5,
+      "total": 1050,
+      "category": "proveedores"
+    }
+  ],
+  "currency": "UYU",
+  "tax_amount": 313.64,
+  "payment_method": "efectivo",
+  "confidence": "alta",
+  "review_note": null,
+  "receipt_date": "2026-11-10",
+  "vendor": "Carnicería El Novillo",
+  "description": "Carne picada y chorizo",
+  "total": 3450,
+  "category": "proveedores"
+}

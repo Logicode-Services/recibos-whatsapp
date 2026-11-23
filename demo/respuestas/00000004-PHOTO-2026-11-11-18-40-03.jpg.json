@@ -1,0 +1,42 @@
+{
+  "is_receipt": true,
+  "is_credit_note": false,
+  "vendor_rut": "219999990022",
+  "document_number": "A 118830",
+  "items": [
+    {
+      "description": "Queso dambo 2 kg",
+      "quantity": 2,
+      "total": 890,
+      "category": "proveedores"
+    },
+    {
+      "description": "Pan de molde x3",
+      "quantity": 3,
+      "total": 420,
+      "category": "proveedores"
+    },
+    {
+      "description": "Detergente 5 L",
+      "quantity": 1,
+      "total": 310,
+      "category": "insumos"
+    },
+    {
+      "description": "Servilletas x500",
+      "quantity": 1,
+      "total": 180,
+      "category": "insumos"
+    }
+  ],
+  "currency": "UYU",
+  "tax_amount": null,
+  "payment_method": "tarjeta",
+  "confidence": "alta",
+  "review_note": null,
+  "receipt_date": "2026-11-11",
+  "vendor": "Autoservicio Don Julio",
+  "description": "Supermercado Autoservicio Don Julio",
+  "total": 1800,
+  "category": "proveedores"
+}
